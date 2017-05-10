@@ -28724,7 +28724,7 @@ var classCallCheck = function (instance, Constructor) {
 var HomeCtrl = function HomeCtrl() {
   classCallCheck(this, HomeCtrl);
 
-  this.title = 'Home Page';
+  this.title = 'Home Page eeee';
 };
 
 var TestCtrl = function TestCtrl() {

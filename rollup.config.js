@@ -17,6 +17,9 @@ var config = {
   plugins: [
     sass({
       output: 'src/css/style.css',
+      options: {
+        outputStyle: 'compressed'
+      },
       processor: css => postcss([autoprefixer])
         .process(css)
         .then(result => result.css)
