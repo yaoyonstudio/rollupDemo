@@ -1,0 +1,13 @@
+* { margin: 0; padding: 0; }
+
+.testCom{
+    display: flex;
+    border: 1px solid #ddd;
+    padding: 10px;
+    button{
+        border: none;
+        background-color: #dd3333;
+        color: #fff;
+        padding: 5px 10px;
+    }
+}

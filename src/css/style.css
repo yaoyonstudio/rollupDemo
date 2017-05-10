@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0; }
+
+.testCom {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  border: 1px solid #ddd;
+  padding: 10px; }
+  .testCom button {
+    border: none;
+    background-color: #dd3333;
+    color: #fff;
+    padding: 5px 10px; }
